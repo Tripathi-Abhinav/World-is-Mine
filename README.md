@@ -1,2 +1,3 @@
 # World-is-Mine
-This is my first repository. 
+This is my first Github repository. 
+
